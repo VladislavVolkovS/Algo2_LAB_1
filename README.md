@@ -17,4 +17,5 @@ ___________________________________
 
 Результаты эффективности алгоритмов:
 
-[Работа алгоритмов.xlsx](https://github.com/VladislavVolkovS/Algo2_LAB_1/files/11260744/default.xlsx)
+
+[Работа алгоритмов.xlsx](https://github.com/VladislavVolkovS/Algo2_LAB_1/files/11260813/results.xlsx)
